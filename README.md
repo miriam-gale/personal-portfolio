@@ -24,5 +24,3 @@ It highlights my work and demonstrates my abilities in web development, design, 
 - LinkedIn: https://www.linkedin.com/in/miriam-wgale  
 - GitHub: [github.com/miriam-gale](https://github.com/miriam-gale)
 
-## ⚡ Fun Fact
-I also enjoy sketching and designing, which helps me make my projects visually appealing and user-friendly.
